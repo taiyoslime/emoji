@@ -28,55 +28,55 @@
 
 `:sushi-upper-left:` | `:sushi-upper-rihgt:` | `:sushi-lower-left:`| `:sushi-lower-right:`
 :-:|:-:|:-:|:-:
-[![](img/sushi-upper-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-upper-left.png) | [![](img/sushi-upper-rihgt.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-upper-rihgt.png) | [![](img/sushi-lower-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-lower-left.png) | [![](img/sushi-lower-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-lower-right.png)
+[![](img/sushi-2/-upper-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-2/-upper-left.png) | [![](img/sushi-2/-upper-rihgt.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-2/-upper-rihgt.png) | [![](img/sushi-2/-lower-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-2/-lower-left.png) | [![](img/sushi-2/-lower-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-2/-lower-right.png)
 
 
 ### sushi-3
 
 `:sushi-top-left:` | `:sushi-top-center:` | `:sushi-top-right:`
 :-:|:-:|:-:
-[![](img/sushi-top-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-top-left.png) | [![](img/sushi-top-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-top-center.png) | [![](img/sushi-top-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-top-right.png)
+[![](img/sushi-3/-top-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-top-left.png) | [![](img/sushi-3/-top-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-top-center.png) | [![](img/sushi-3/-top-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-top-right.png)
 
 
 `:sushi-middle-left:` | `:sushi-middle-center:` | `:sushi-middle-right:`
 :-:|:-:|:-:
-[![](img/sushi-middle-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-middle-left.png) | [![](img/sushi-middle-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-middle-center.png) | [![](img/sushi-middle-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-middle-right.png)
+[![](img/sushi-3/-middle-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-middle-left.png) | [![](img/sushi-3/-middle-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-middle-center.png) | [![](img/sushi-3/-middle-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-middle-right.png)
 
 
 `:sushi-bottom-left:` | `:sushi-bottom-center:` | `:sushi-bottom-right:`
 :-:|:-:|:-:
-[![](img/sushi-bottom-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-bottom-left.png) | [![](img/sushi-bottom-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-bottom-center.png) | [![](img/sushi-bottom-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-bottom-right.png)
+[![](img/sushi-3/-bottom-left.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-bottom-left.png) | [![](img/sushi-3/-bottom-center.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-bottom-center.png) | [![](img/sushi-3/-bottom-right.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-3/-bottom-right.png)
 
 
 ### sushi-6
 
 `:sushi-6-0-0:` |`:sushi-6-0-1:` |`:sushi-6-0-2:` | `:sushi-6-0-3:` | `:sushi-6-0-4:` | `:sushi-6-0-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-0-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-0.png) | [![](img/6-0-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-1.png) | [![](img/6-0-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-2.png) | [![](img/6-0-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-3.png) | [![](img/6-0-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-4.png) | [![](img/6-0-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-0-5.png)
+[![](img/sushi-6/sushi-6-0-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-0.png) | [![](img/sushi-6/sushi-6-0-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-1.png) | [![](img/sushi-6/sushi-6-0-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-2.png) | [![](img/sushi-6/sushi-6-0-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-3.png) | [![](img/sushi-6/sushi-6-0-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-4.png) | [![](img/sushi-6/sushi-6-0-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-0-5.png)
 
 
 `:sushi-6-1-0:` |`:sushi-6-1-1:` |`:sushi-6-1-2:` | `:sushi-6-1-3:` | `:sushi-6-1-4:` | `:sushi-6-1-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-1-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-0.png) | [![](img/6-1-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-1.png) | [![](img/6-1-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-2.png) | [![](img/6-1-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-3.png) | [![](img/6-1-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-4.png) | [![](img/6-1-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-1-5.png)
+[![](img/sushi-6/sushi-6-1-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-0.png) | [![](img/sushi-6/sushi-6-1-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-1.png) | [![](img/sushi-6/sushi-6-1-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-2.png) | [![](img/sushi-6/sushi-6-1-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-3.png) | [![](img/sushi-6/sushi-6-1-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-4.png) | [![](img/sushi-6/sushi-6-1-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-1-5.png)
 
 
 `:sushi-6-2-0:` |`:sushi-6-2-1:` |`:sushi-6-2-2:` | `:sushi-6-2-3:` | `:sushi-6-2-4:` | `:sushi-6-2-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-2-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-0.png) | [![](img/6-2-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-1.png) | [![](img/6-2-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-2.png) | [![](img/6-2-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-3.png) | [![](img/6-2-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-4.png) | [![](img/6-2-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-2-5.png)
+[![](img/sushi-6/sushi-6-2-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-0.png) | [![](img/sushi-6/sushi-6-2-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-1.png) | [![](img/sushi-6/sushi-6-2-2.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-2.png) | [![](img/sushi-6/sushi-6-2-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-3.png) | [![](img/sushi-6/sushi-6-2-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-4.png) | [![](img/sushi-6/sushi-6-2-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-2-5.png)
 
 
 `:sushi-6-3-0:` |`:sushi-6-3-1:` |`:sushi-6-3-3:` | `:sushi-6-3-3:` | `:sushi-6-3-4:` | `:sushi-6-3-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-3-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-0.png) | [![](img/6-3-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-1.png) | [![](img/6-3-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-3.png) | [![](img/6-3-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-3.png) | [![](img/6-3-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-4.png) | [![](img/6-3-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-3-5.png)
+[![](img/sushi-6/sushi-6-3-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-0.png) | [![](img/sushi-6/sushi-6-3-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-1.png) | [![](img/sushi-6/sushi-6-3-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-3.png) | [![](img/sushi-6/sushi-6-3-3.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-3.png) | [![](img/sushi-6/sushi-6-3-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-4.png) | [![](img/sushi-6/sushi-6-3-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-3-5.png)
 
 
 `:sushi-6-4-0:` |`:sushi-6-4-1:` |`:sushi-6-4-4:` | `:sushi-6-4-4:` | `:sushi-6-4-4:` | `:sushi-6-4-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-4-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-0.png) | [![](img/6-4-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-1.png) | [![](img/6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-4.png) | [![](img/6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-4.png) | [![](img/6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-4.png) | [![](img/6-4-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-4-5.png)
+[![](img/sushi-6/sushi-6-4-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-0.png) | [![](img/sushi-6/sushi-6-4-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-1.png) | [![](img/sushi-6/sushi-6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-4.png) | [![](img/sushi-6/sushi-6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-4.png) | [![](img/sushi-6/sushi-6-4-4.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-4.png) | [![](img/sushi-6/sushi-6-4-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-4-5.png)
 
 
 `:sushi-6-5-0:` |`:sushi-6-5-1:` |`:sushi-6-5-5:` | `:sushi-6-5-5:` | `:sushi-6-5-5:` | `:sushi-6-5-5:` |
 :-:|:-:|:-:|:-:|:-:|:-:
-[![](img/6-5-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-0.png) | [![](img/6-5-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-1.png) | [![](img/6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-5.png) | [![](img/6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-5.png) | [![](img/6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-5.png) | [![](img/6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/6-5-5.png)
+[![](img/sushi-6/sushi-6-5-0.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-0.png) | [![](img/sushi-6/sushi-6-5-1.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-1.png) | [![](img/sushi-6/sushi-6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-5.png) | [![](img/sushi-6/sushi-6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-5.png) | [![](img/sushi-6/sushi-6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-5.png) | [![](img/sushi-6/sushi-6-5-5.png)](https://github.com/taiyoslime/emoji/raw/master/img/sushi-6/sushi-6-5-5.png)
 
 
